@@ -1,4 +1,2 @@
-Windows Server 2022 - Einrichtung - AD-Server
+Einrichtung - AD-Server
 =====
-
-Test
