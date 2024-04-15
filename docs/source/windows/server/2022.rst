@@ -1,4 +1,4 @@
-Usage
+Windows Server 2022
 =====
 
 .. _installation:
