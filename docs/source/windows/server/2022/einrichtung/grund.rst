@@ -29,8 +29,33 @@ Wenn alle Updates installiert sind bzw. von Anfang an keine Verfügbar sind, wir
 .. image:: ../img/einrichtung/grund/updates/4.png
   :width: 750
 
+
+
 Installation von BGInfo
 -----
+
+1. Passende Vorlage aus dem Vorlagenordner nehmen
+2. Ordnerinhalte auf den Server kopieren nach "C:\Program Files (x86)\BGInfo". Sollte wie folgt aussehen:
+
+.. image:: ../img/einrichtung/grund/bg-info/1.png
+  :width: 750
+
+3. Die Datei "Create-BGInfoLaunchShortcut" ausführen und anschließend auf "OK" klicken
+4. Nun die Datei "Bginfo64" ausführen
+5. In dem Fenster das sich öffnet oben links auf "File" > "Open…" klicken.
+
+.. image:: ../img/einrichtung/grund/bg-info/2.png
+  :width: 750
+
+6. Dann die Datei "Server" auswählen.
+
+.. image:: ../img/einrichtung/grund/bg-info/31.png
+  :width: 750
+
+7. Falls die Abfrage kommt, ob die bisherige Konfiguration gespeichert werden soll, den Punkt "Nein" auswählen
+
+.. image:: ../img/einrichtung/grund/bg-info/4.png
+  :width: 750
 
 Feste IP-Adresse vergeben
 -----
