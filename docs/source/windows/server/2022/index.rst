@@ -6,7 +6,7 @@ Contents
 
 .. toctree::
 
-installation
-einrichtung/hv
-einrichtung/ad
-einrichtung/app
+  installation
+  einrichtung/hv
+  einrichtung/ad
+  einrichtung/app
