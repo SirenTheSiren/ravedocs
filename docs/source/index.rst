@@ -6,7 +6,7 @@ RaveDocs
 
    Diese Doku befindet sich in aktiver Entwicklung.
 
-Contents
+Inhalt
 --------
 
 .. toctree::
