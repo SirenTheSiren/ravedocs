@@ -1,9 +1,6 @@
 Windows Server 2022
 =====
 
-Contents
-------
-
 .. toctree::
 
   installation
