@@ -38,24 +38,24 @@ Installation von BGInfo
 2. Ordnerinhalte auf den Server kopieren nach "C:\Program Files (x86)\BGInfo". Sollte wie folgt aussehen:
 
 .. image:: ../img/einrichtung/grund/bg-info/1.png
-  :width: 750
+  :width: 500
 
 3. Die Datei "Create-BGInfoLaunchShortcut" ausführen und anschließend auf "OK" klicken
 4. Nun die Datei "Bginfo64" ausführen
 5. In dem Fenster das sich öffnet oben links auf "File" > "Open…" klicken.
 
 .. image:: ../img/einrichtung/grund/bg-info/2.png
-  :width: 750
+  :width: 500
 
 6. Dann die Datei "Server" auswählen.
 
-.. image:: ../img/einrichtung/grund/bg-info/31.png
-  :width: 750
+.. image:: ../img/einrichtung/grund/bg-info/3.png
+  :width: 500
 
 7. Falls die Abfrage kommt, ob die bisherige Konfiguration gespeichert werden soll, den Punkt "Nein" auswählen
 
 .. image:: ../img/einrichtung/grund/bg-info/4.png
-  :width: 750
+  :width: 500
 
 Feste IP-Adresse vergeben
 -----
