@@ -1,5 +1,5 @@
-Willkommen in meiner Dokumentation
-===================================
+RaveDocs
+========
 
 
 .. note::
@@ -11,5 +11,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   windows/server/2022
