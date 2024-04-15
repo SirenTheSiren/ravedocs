@@ -11,4 +11,4 @@ Contents
 
 .. toctree::
 
-   windows/server/2022
+   windows/server/2022/index
