@@ -12,3 +12,5 @@ Inhalt
 .. toctree::
 
    windows/server/2022/index
+   firewalls/opnsense/index
+   pbx/3cx/index
