@@ -4,7 +4,7 @@ RaveDocs
 
 .. note::
 
-   Diese Doku befindet sich in aktiver Entwicklung.
+   Diese Doku befindet sich noch in der Entwicklung.
 
 Inhalt
 --------
